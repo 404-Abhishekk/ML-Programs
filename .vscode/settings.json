@@ -1,0 +1,9 @@
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Abhishek\\anaconda3\\envs\\tf_env\\Lib\\site-packages"
+    ],
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportMissingImports": "none"
+    }
+}
